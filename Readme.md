@@ -9,4 +9,4 @@
 ###### Purpose:
     API to schedule events
 
-#### Check out the live app [here](http://203.193.173.125/buildriseshine/api/javascript/booking).
+#### Check out the live app [here](https://priyanka23-brs.github.io/Slot-booking-API/).
